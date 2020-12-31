@@ -1,0 +1,2 @@
+# GeographyQize
+for Power Apps
